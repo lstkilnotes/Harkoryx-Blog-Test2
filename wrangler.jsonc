@@ -1,6 +1,6 @@
 {
-	"name": "firefly",
-	"compatibility_date": "2025-01-01",
+	"name": "Harkoryx-Blog-Test2",
+	"compatibility_date": "2026-07-03",
 	"compatibility_flags": ["nodejs_compat"],
 	"assets": {
 		"directory": "./dist"
