@@ -75,6 +75,11 @@ comment: boolean       # 可选，默认 true
 lang: string           # 可选，默认 ""（与站点语言不同时设置）
 password: string       # 可选，加密文章
 passwordHint: string   # 可选，密码提示
+updated: date          # 可选
+author: string         # 可选
+sourceLink: string     # 可选
+licenseName: string    # 可选
+licenseUrl: string     # 可选
 ---
 ```
 
