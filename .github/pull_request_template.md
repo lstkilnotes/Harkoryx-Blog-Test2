@@ -1,37 +1,27 @@
-## Type of change
+## 变更类型
 
-- [ ] Bug fix (a non-breaking change that fixes an issue)
-- [ ] New feature (a non-breaking change that adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] Other (please describe):
+- [ ] 📝 content: 新增/修改文章
+- [ ] ✨ feat: 新功能
+- [ ] 🐛 fix: 修复 bug
+- [ ] 💄 style: 样式调整
+- [ ] ♻️ refactor: 代码重构
+- [ ] 🔧 chore: 杂项（配置、依赖等）
 
-## Checklist
+## 分支信息
 
-- [ ] I have read the [**CONTRIBUTING**](https://github.com/CuteLeaf/Firefly/blob/master/CONTRIBUTING.md) document.
-- [ ] I have checked to ensure that this Pull Request is not for personal changes.
-- [ ] I have performed a self-review of my own code.
-- [ ] My changes generate no new warnings.
+- 分支名: `<!-- 如 aya/content/my-article -->`
+- 操作者: <!-- 主人 / 绫 / 萌華 / 塞娜 -->
 
-## Related Issue
+## 变更描述
 
-<!-- Please link to the issue that this pull request addresses. e.g. #123 -->
+<!-- 描述本次改动的内容 -->
 
+## 验证
 
-## Changes
+- [ ] `pnpm run check` 通过
+- [ ] `pnpm run build` 通过
+- [ ] 本地预览确认效果（如适用）
 
-<!-- Please describe the changes you made in this pull request. -->
+## 截图（如适用）
 
-
-## How To Test
-
-<!-- Please describe how you tested your changes. -->
-
-
-## Screenshots (if applicable)
-
-<!-- If you made any UI changes, please include screenshots. -->
-
-
-## Additional Notes
-
-<!-- Any additional information that you want to share with the reviewer. -->
+<!-- UI 改动请附截图 -->
